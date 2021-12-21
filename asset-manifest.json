@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fcc_calculator/static/css/main.93a8e8d0.chunk.css",
+    "main.js": "/fcc_calculator/static/js/main.e9226d04.chunk.js",
+    "main.js.map": "/fcc_calculator/static/js/main.e9226d04.chunk.js.map",
+    "runtime-main.js": "/fcc_calculator/static/js/runtime-main.468c74c4.js",
+    "runtime-main.js.map": "/fcc_calculator/static/js/runtime-main.468c74c4.js.map",
+    "static/js/2.5b410254.chunk.js": "/fcc_calculator/static/js/2.5b410254.chunk.js",
+    "static/js/2.5b410254.chunk.js.map": "/fcc_calculator/static/js/2.5b410254.chunk.js.map",
+    "index.html": "/fcc_calculator/index.html",
+    "static/css/main.93a8e8d0.chunk.css.map": "/fcc_calculator/static/css/main.93a8e8d0.chunk.css.map",
+    "static/js/2.5b410254.chunk.js.LICENSE.txt": "/fcc_calculator/static/js/2.5b410254.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.468c74c4.js",
+    "static/js/2.5b410254.chunk.js",
+    "static/css/main.93a8e8d0.chunk.css",
+    "static/js/main.e9226d04.chunk.js"
+  ]
+}
